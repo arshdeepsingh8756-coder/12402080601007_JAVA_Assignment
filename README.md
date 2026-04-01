@@ -1,2 +1,0 @@
-# 12402080601007_JAVA_Assignment
-Java Assignment
